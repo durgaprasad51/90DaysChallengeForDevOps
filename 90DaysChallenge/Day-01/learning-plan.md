@@ -39,4 +39,4 @@ Reduces confusion
 Prevents burnout
 Keeps you focused during tough days
 **
-# Will post on LinkedIn and github actively at least thrice a week
+## Will post on LinkedIn and github actively at least thrice a week
