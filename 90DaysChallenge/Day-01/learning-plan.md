@@ -1,6 +1,6 @@
 # Introduction to DevOps and Cloud
 
-## Goal ** Pleadge**
+## Goal ** Pleadge **
 
 My 90 Days of learning plan will be as followed -
 
