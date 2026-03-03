@@ -19,6 +19,7 @@ Zombie
 * Linux man pages (ps, top, systemctl)
 * Official systemd docs
 * Your class notes
+* Daily updates from class
 
 
 ## Why This Matters for DevOps
